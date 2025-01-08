@@ -8,4 +8,4 @@ RISC-V Workshop, powered by **Samsung Semiconductor India Research (SSIR).
 ---
 ## Resource Person
 Kunal Ghosh
----
+
